@@ -1,6 +1,6 @@
 ## How to use
 1. Place the code [pre-processing.py](https://github.com/daehwa/AudioHero/blob/master/pre-processing/Pre-Processing/Code/pre-processing.py) to the same folder with raw data files.
-2. run the code. Your code automaticaly finds wav files and convert it. Also, it skipped the already processed files.
+2. run the code. Your code automatically finds wav files and convert it. Also, it skipped the already processed files.
     ```
     python pre-processing.py
     ```
