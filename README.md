@@ -3,6 +3,7 @@ AudioHero is a real-time sound-based danger detection system.
 
 
 ## Ongoing
+- [x] Defining a context to use
 - [x] Download raw data
 - [ ] Data Pre-processing
 - [ ] Featurization
