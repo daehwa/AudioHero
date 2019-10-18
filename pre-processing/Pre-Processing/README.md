@@ -11,7 +11,7 @@
 | Format      | .wav       |
 |   Sample rate   |   16kHz   |
 |    Channel    |   1 (mono) |
-| Bit Depth     |   PCM_16  |
+| Bit Depth     |  16-bits (PCM_16)  |
 
 
 ## Output Example on Screen
