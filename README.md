@@ -1,8 +1,8 @@
-# AudioHero
 <p align="center">
-  <img width="100" height="100" src="./img/logo.png">
+  <img width="250" height="250" src="./img/logo.png">
 </p>
 
+# AudioHero
 AudioHero is a real-time sound-based danger detection system.
 
 
