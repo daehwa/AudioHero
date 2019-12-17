@@ -4,7 +4,7 @@
 
 # AudioHero
 AudioHero is a real-time sound-based danger detection system.
-[[!demo](./img/demo.png)](https://youtu.be/uFlK72CgvDE)
+[[demo](./img/demo.png)](https://youtu.be/uFlK72CgvDE)
 
 ## Ongoing
 - [x] Defining a context to use
