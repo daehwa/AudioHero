@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="./img/logo.png">
+  <img height="250" src="./img/logo2.png">
 </p>
 
 # AudioHero
@@ -24,8 +24,13 @@ We use [AudioSet](https://research.google.com/audioset/), a dataset of over 2 mi
 
 
 ## Pre-processing
-1. Pre-processing
-2. Amplitude Augmentation
-3. Persistence Augmentation
-4. Mixing Augmentation
-5. Combining Augmentations
+1. [Pre-processing](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Pre-Processing)
+2. [Amplitude Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Amplification_Augmentation)
+3. [Persistence Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Presistence%20Augmentation)
+4. [Mixing Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Mixing%20Augmentation)
+
+## Result
+AudioHero got total 73% classification accuracy over 8 danger situation classes.
+<p align="center">
+  <img height="250" src="./img/result.png">
+</p>
