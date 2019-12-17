@@ -1,4 +1,6 @@
 # AudioHero
+![logo](/img/logo.png){: width="300" height="300"){: .center}
+
 AudioHero is a real-time sound-based danger detection system.
 
 
@@ -6,11 +8,11 @@ AudioHero is a real-time sound-based danger detection system.
 - [x] Defining a context to use
 - [x] Download raw data
 - [x] Data Pre-processing
-- [ ] Featurization
+- [x] Featurization
 - [x] Modify Network
-- [ ] Training
-- [ ] Evaluation
-- [ ] Prepare demo
+- [x] Training
+- [x] Evaluation
+- [ ] Prepare live demo
 
 
 ## DataSet
