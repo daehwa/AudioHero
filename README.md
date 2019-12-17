@@ -4,9 +4,7 @@
 
 # AudioHero
 AudioHero is a real-time sound-based danger detection system.
-<p align="center">
-  <img height="300" src="./img/demo.png">
-</p>
+[[!demo](./img/demo.png)](https://youtu.be/uFlK72CgvDE)
 
 ## Ongoing
 - [x] Defining a context to use
@@ -32,5 +30,5 @@ We use [AudioSet](https://research.google.com/audioset/), a dataset of over 2 mi
 ## Result
 AudioHero got total 73% classification accuracy over 8 danger situation classes.
 <p align="center">
-  <img height="250" src="./img/result.png">
+  <img height="300" src="./img/result.png">
 </p>
