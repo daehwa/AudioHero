@@ -122,7 +122,7 @@ def load_vggish_slim_checkpoint(session, checkpoint_path):
   # Get the list of all currently existing variables that match
   # the list of variable names we just computed.
   vggish_vars = [v for v in tf.global_variables() if v.name in vggish_var_names]
-  print(vggish_var_names)
+  # print(vggish_var_names)
 
   # Use a Saver to restore just the variables selected above.
   saver = tf.train.Saver(vggish_vars, name='vggish_load_pretrained',

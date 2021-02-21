@@ -4,7 +4,7 @@
 
 # AudioHero
 AudioHero is a real-time sound-based danger detection system.
-[[!demo](./img/demo.png)](https://youtu.be/uFlK72CgvDE)
+[![demo](./img/demo.png)](https://youtu.be/uFlK72CgvDE)
 
 ## Ongoing
 - [x] Defining a context to use
@@ -26,6 +26,8 @@ We use [AudioSet](https://research.google.com/audioset/), a dataset of over 2 mi
 2. [Amplitude Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Amplification_Augmentation)
 3. [Persistence Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Presistence%20Augmentation)
 4. [Mixing Augmentation](https://github.com/daehwa/AudioHero/tree/master/pre-processing/Mixing%20Augmentation)
+
+This processing procedure referred to the paper [Ubicoustics](https://dl.acm.org/doi/abs/10.1145/3242587.3242609).
 
 ## Result
 AudioHero got total 73% classification accuracy over 8 danger situation classes.
